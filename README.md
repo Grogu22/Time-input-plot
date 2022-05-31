@@ -1,5 +1,5 @@
 # Time-input-plot
-#### This analysis is shown in the Jupyter Notebook
+#### This analysis is shown in the Jupyter Notebook and plot.py
 Constructs a graph using matplotlib and takes user input for start dates and end dates, for displaying plot within a particular timeframe.
 Data can be stored in an external file (here I have used a .csv file)
 #### For mbF.py we generate a grouped bar plot with varying number of bars per group 
