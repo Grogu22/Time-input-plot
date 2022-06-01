@@ -5,4 +5,4 @@ Data can be stored in an external file (here I have used a .csv file)
 <hr>
 
 #### For mbF.py we generate a grouped bar plot with varying number of bars per group 
-<img width="674" alt="image" src="https://user-images.githubusercontent.com/83173038/171299016-8019a0b9-3163-4e58-a5cc-3ddf5214346b.png">
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/83173038/171366634-752f811c-871f-4d1c-a4a3-368f3e42daa0.png">
