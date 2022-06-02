@@ -1,5 +1,5 @@
 # Time-input-plot
-#### This analysis is shown in the Jupyter Notebook and <a href="plot.py">plot.py</a>
+#### This analysis is shown in the <a href="check.ipynb">Jupyter Notebook</a> and <a href="plot.py">plot.py</a>
 Constructs a graph using matplotlib and takes user input for start dates and end dates, for displaying plot within a particular timeframe.
 Data can be stored in an <a href="data.csv">external file</a> (here I have used a .csv file)
 <hr>
